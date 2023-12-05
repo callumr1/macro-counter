@@ -10,7 +10,7 @@ Macro Counter allows you to calculate the Calories, Protein, Carbs, and Fats for
 ## Getting Started
 
 First, run the development server:
-
+ 
 ```bash
 npm run dev
 # or
